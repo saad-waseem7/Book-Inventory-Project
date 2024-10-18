@@ -28,8 +28,8 @@ Follow these steps to set up and run the application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/BookStore.git
-   cd BookStore
+   git clone https://github.com/yourusername/BookInventory.git
+   cd BookInventory
 
 2. **Install Dependencies**:
    ```bash
