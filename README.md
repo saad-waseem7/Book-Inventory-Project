@@ -1,4 +1,4 @@
-# 📚 Book Inventory Management System
+# 📚 Book Inventory System
 
 A user-friendly **Book Inventory Management System** built with Python and MySQL, designed to streamline the management of books, customers, and orders. This application features intuitive interfaces for both administrators and customers, ensuring smooth operation and an enjoyable user experience.
 
