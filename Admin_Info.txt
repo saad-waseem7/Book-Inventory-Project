@@ -1,4 +1,0 @@
->>>Admin Credentials.
-
-Admin Username = "admin"
-Admin Password = "pass"
